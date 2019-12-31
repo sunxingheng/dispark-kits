@@ -1,0 +1,18 @@
+{
+  "name": "dispark-kits",
+  "version": "0.0.3",
+  "description": "工具集合的工具箱",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "工具",
+    "日期",
+    "方法"
+  ],
+  "author": {
+    "name":"孙星恒(sunxingheng@gmail.com)"
+  },
+  "license": "ISC"
+}
